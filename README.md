@@ -1,2 +1,0 @@
-# Projects
-Numerical simulations
